@@ -1,0 +1,5 @@
+[
+  {"user": "alice.example", "console_access": true,  "mfa_devices": 1},
+  {"user": "carol.example", "console_access": true,  "mfa_devices": 0},
+  {"user": "ci-deploy-bot", "console_access": false, "mfa_devices": 0}
+]

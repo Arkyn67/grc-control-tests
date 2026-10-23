@@ -1,0 +1,5 @@
+[
+  {"user": "alice.example", "key_id": "AKIAEXAMPLE000000001", "status": "Active",   "age_days": 30},
+  {"user": "ci-deploy-bot", "key_id": "AKIAEXAMPLE000000002", "status": "Active",   "age_days": 212},
+  {"user": "bob.example",   "key_id": "AKIAEXAMPLE000000003", "status": "Inactive", "age_days": 400}
+]
